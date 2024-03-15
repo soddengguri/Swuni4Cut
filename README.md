@@ -1,5 +1,5 @@
-# 슈니네컷
-- 학교에서 찍는 페이스타투 AR 인생네컷 (Face tattoo AR four Cuts taken at school.)
+## 슈니네컷
+학교에서 찍는 페이스타투 AR 인생네컷 (Face tattoo AR four Cuts taken at school.)
 
 
 ## 프로젝트 설명

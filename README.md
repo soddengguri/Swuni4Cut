@@ -1,15 +1,26 @@
 <img width="916" alt="mockup" src="https://github.com/soddengguri/Swuni4Cut/assets/88537867/f7d745d4-ae70-4d52-8bf7-dd8d2712dca4">
 
+## 목차
+- [개요] #개요
+- [프로젝트 설명] #프로젝트-설명
+- [시연 영상] #시연-영상
 
-### [프로젝트 소개 (Project Introduction)]
 
+## 개요
+- 프로젝트 이름 : 슈니네컷 (Swuni4Cut)
+- 프로젝트 진행기간 : 2022.10-2022.12
+- 개발 엔진 및 언어 : Unity & C#
+- 멤버 : 신소연(기획 및 개발), 문정원(디자인)
+
+
+## 프로젝트 설명
 - 학교에서 찍는 페이스타투 AR 인생네컷 (Face tattoo AR four Cuts taken at school.)
-- 학교 내, 사진이 잘 나오는 포토스팟에 AR인생네컷 브로셔 제공하여 AR 촬영 서비스 사용 유도 (Encourage use of AR photography service by providing AR Four Cuts brochures at photo spots with good photos within the school.)
-- 팀원 2명에서 학부 수업 프로젝트로 제작했던 Unity 기반 촬영 AR 어플입니다. (This is a Unity-based shooting AR app created by two team members as an undergraduate class project.)
+- 학교 내, 사진이 잘 나오는 포토스팟에 '슈니네컷' 브로셔 제공하여 AR 촬영 서비스 사용 유도
+- 학부 수업 프로젝트로 제작했던 AR 카메라 어플입니다.
+
+
+## 시연 영상
   
----
 
-### [역할 (role)]
-
-- 기획 : 콘텐츠 설정, 필터 및 프레임 구성, 사용자 조사, 구조 설계 (Content setting, Filter and Frame Composition, User Research, Structural Design.)
-- 프로그래밍(Unity, C#) : XR 카메라 기능 구현, UI 배치/애니메이션 및 기능 구현(XR camera function implementation, UI placement/animation and function implementation.)
+## Spatial 공간 전시
+[포털 구경하기](https://www.spatial.io/s/soyeons-Virtual-Space-63a1ed79bff9f700011bca6a?share=1370396976383998651")

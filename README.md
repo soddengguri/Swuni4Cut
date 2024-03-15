@@ -1,3 +1,6 @@
+<img width="916" alt="mockup" src="https://github.com/soddengguri/Swuni4Cut/assets/88537867/f7d745d4-ae70-4d52-8bf7-dd8d2712dca4">
+
+
 ### [프로젝트 소개 (Project Introduction)]
 
 - 학교에서 찍는 페이스타투 AR 인생네컷 (Face tattoo AR four Cuts taken at school.)
